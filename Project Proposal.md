@@ -8,7 +8,7 @@
 [7] [Gearbox V1 Calculations](gearboxv1%20calculations.txt)<br>
 [8] [Car Shell Design V1](carpototyperobotics.blend)
 
-### Links(forme)
+### Links
 [9] [Gear Generator (with my gearv1 design)](https://shorturl.at/dGQU8)<br><!--https://geargenerator.com/#200,200,100,6,0,0,341.40000000000146,4,1,12,3,4,20,0,0,0,0,0,0,1,6,1.5,4,20,0,0,0,0,0,0,0,24,6,4,20,-35,0,0,0,0,2,1,6,1.5,4,20,-35,0,0,0,0,0,1,3,-35-->
 [10] [Gear Ratios](https://woodgears.ca/gear/ratio.html)<br>
 [11] [Gear Types](https://khkgears.net/new/gear_knowledge/the-first-step-of-mechanism-design-using-gears/know-about-gear-types-and-relations-between-the-two-shafts.html)
