@@ -31,4 +31,4 @@ My original design for the gearbox can be seen in file [[2]](grearboxplan_design
 ![gearboxv1 angleview_complete_compressed.gif](https://github.com/vakkD/robocarfinal/blob/main/gearboxv1%20angleview_complete_compressed.gif)
 <br>(the quality is bad due to attempts at reducing file size, loss-less version [[5]](https://github.com/vakkD/robocarfinal/blob/main/gearboxv1%20angleview_complete.mkv), the gear speed is not accurate on this demonstration, it is only to show the mechanism)
 
-I have created a new, more compact design [[4]](gearboxv1%20angleview_complete.mkv), this is not worth giving a description for as it follows the same princible as V1, just has a shortened rod, all other components are the same.
+I have created a new, more compact design [[4]](gearboxv1%20angleview_complete.mkv), this is not worth giving a description for as it follows the same principle as V1, just has a shortened rod, condensing the entire mechanism, all other components are the same.
