@@ -2,8 +2,10 @@
 [1][Car Design](cardesign.jpeg)<br>
 [2][Gearbox Plan/Design](grearboxplan_design.jpeg)<br>
 [3][Story Card](storycard_components.jpeg)<br>
-[4][Gearbox V2 Design](https://github.com/vakkD/robocarfinal/blob/main/gearboxv2%20compact_design.jpeg)<br>
-[5][Gearbox V1 Running](https://github.com/vakkD/robocarfinal/blob/main/gearboxv1%20angleview_complete.mkv)
+[4][Gearbox V2 Design](gearboxv2%20compact_design.jpeg)<br>
+[5][Gearbox V1 Running]gearboxv1%20angleview_complete.mkv)<br>
+[6][Gearbox V1 Blender File](gearboxv1.blend)<br>
+[7][Gearbox V1 Calculations](gearboxv1%20calculations.txt)
 
 ### Links(forme)
 [Gear Generator (with my gearv1 design)](https://geargenerator.com/#200,200,100,6,0,0,341.40000000000146,4,1,12,3,4,20,0,0,0,0,0,0,1,6,1.5,4,20,0,0,0,0,0,0,0,24,6,4,20,-35,0,0,0,0,2,1,6,1.5,4,20,-35,0,0,0,0,0,1,3,-35)<br>
