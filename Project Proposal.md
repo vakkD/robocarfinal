@@ -15,6 +15,8 @@
 
 
 # Description
+Our project is to create an RC car using Arduino components, using knowledge from the simple car we created the last term. We will implement systems such as gearing and motors. The intended audience of this project would be people who have an interest in RC cars and want to expand their knowledge and see how they can make them and improve upon its design. The project itself can also be used as an educational resource as the theory behind the car itself is relatively simple in terms of motor control and would allow people to have fun learning about stepper and general DC motors and how they function.
+
 We are making an Arduino RC car. We are taking what we created last term and massively improving it. My role in this project is to design and create the steering mechanism, gearbox and differential rear wheel drive. Lewis' role is to program the motors and Elisha has control of all the circuitry.
 
 # My Role and Idea
@@ -32,3 +34,5 @@ My original design for the gearbox can be seen in file [[2]](grearboxplan_design
 <br>(the quality is bad due to attempts at reducing file size, loss-less version [[5]](https://github.com/vakkD/robocarfinal/blob/main/gearboxv1%20angleview_complete.mkv), the gear speed is not accurate on this demonstration, it is only to show the mechanism)
 
 I have created a new, more compact design [[4]](gearboxv1%20angleview_complete.mkv), this is not worth giving a description for as it follows the same principle as V1, just has a shortened rod, condensing the entire mechanism, all other components are the same.
+
+I created a rough 3D model for the car, so that we can print it later [[8]](carpototyperobotics.blend).
