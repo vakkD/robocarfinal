@@ -35,4 +35,4 @@ My original design for the gearbox can be seen in file [[2]](grearboxplan_design
 
 I have created a new, more compact design [[4]](gearboxv1%20angleview_complete.mkv), this is not worth giving a description for as it follows the same principle as V1, just has a shortened rod, condensing the entire mechanism, all other components are the same.
 
-I created a rough 3D model for the car, so that we can print it later [[8]](carpototyperobotics.blend).
+I created a rough 3D model for the car, so that we can print it later [[8]](carpototyperobotics.blend). The wheels will fall off each side and be supported by some suspension [[1]](cardesign.jpeg).
