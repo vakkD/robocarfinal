@@ -1,7 +1,7 @@
 ### Files
 [1] [Car Design](cardesign.jpeg)<br>
 [2] [Gearbox Plan/Design](grearboxplan_design.jpeg)<br>
-[3] [Story Card](storycard_components.jpeg)<br>
+[3] [Design Cards](storycard_components.jpeg)<br>
 [4] [Gearbox V2 Design](gearboxv2%20compact_design.jpeg)<br>
 [5] [Gearbox V1 Running](gearboxv1%20angleview_complete.mkv)<br>
 [6] [Gearbox V1 Blender File](gearboxv1.blend)<br>
