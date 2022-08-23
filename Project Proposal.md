@@ -6,7 +6,7 @@
 [5] [Gearbox V1 Running](gearboxv1%20angleview_complete.mkv)<br>
 [6] [Gearbox V1 Blender File](gearboxv1.blend)<br>
 [7] [Gearbox V1 Calculations](gearboxv1%20calculations.txt)<br>
-[8] [Car Shell Design V1](carpototyperobotics.blend)
+[8] [Car Shell Design V1](carpototyperobotics.blend)<br>
 [9] [Box and Arrows Design](robocar_box_arrow.jpg)
 
 ### Links
