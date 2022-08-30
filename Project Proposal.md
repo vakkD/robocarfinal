@@ -49,7 +49,7 @@ Must have:
 - Steering Mechanism
 
 Should have:
-- Manual Gearbox
+- Manual 2-Speed Gearbox
 - I2C : Remote to Car
 
 Could have:
